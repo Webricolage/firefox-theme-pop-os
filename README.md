@@ -15,7 +15,7 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 __Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVgiAv-gx1vFCdU8EaI8xTOqvAY8WIhbzwLofEsRJAXtd9wqh8JsYHq6m-ZvzdWm40gnmVUXcERRgnMQf7NwjnfHuSmNCt-rUz7oikwfmTq8nUesC-aKuzVKlhUnMrfE8eK3YFgEch_xtPTrP-0RsAA```
 
-__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-darker/
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-darker
 
 ### Pop! Light
 
@@ -27,7 +27,7 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 __Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVghqI53i8tc0iHdfdiiTXB6kpnqXE4hgjGghz93XVSrpEI5PUqDapQcSgIxeNKC4fJbeHFNXcPOuFvdumIrCfDQblGFgl5IbZberiLn7_sUlSOgL6Wzpa7xpxbGa8sVIXnGB-zA-NLxg1GfpPKE6bf_YFRAA```
 
-__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-light/
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-light
 
 ### Pop! Warm
 
