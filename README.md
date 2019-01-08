@@ -7,9 +7,9 @@ These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on
 
 ### Pop! (Default, a.k.a. "darker")
 
-Dark brown title bar with light tabs and toolbar. A style conventionally known as "darker".
+Unofficial theme based on the style of Pop!\_OS.
 
-Highlights: orange
+Features: dark brown title bar with light tabs and toolbar. A style conventionally known as "darker". Highlights are orange.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
@@ -17,9 +17,9 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 ### Pop! Light
 
-Light title bar, tabs and toolbar.
+Unofficial theme based on the style of Pop!\_OS.
 
-Highlights: teal
+Features: light title bar, tabs and toolbar. Has teal highlights.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
@@ -27,9 +27,9 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 ### Pop! Warm
 
-Brownish or warm gray title bar, tabs and toolbar.
+Unofficial theme based on the style of Pop!\_OS.
 
-Highlights: orange
+Features: brownish or warm gray title bar, tabs and toolbar. Highlights are orange.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
@@ -37,9 +37,9 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 ### Pop! Dark
 
-A theme with a dark title bar, tabs and toolbar.
+Unofficial theme based on the style of Pop!\_OS.
 
-Highlights: teal
+A theme with a dark title bar, tabs and toolbar. With teal highlights.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
@@ -47,9 +47,9 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 ### Pop! Black
 
-A near black (warm dark gray) theme.
+Unofficial theme based on the style of Pop!\_OS.
 
-Highlights: teal
+A near black (warm dark gray) theme. With teal highlights.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
