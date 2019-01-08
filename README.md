@@ -39,9 +39,15 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 Unofficial theme based on the style of Pop!\_OS.
 
-A theme with a dark title bar, tabs and toolbar. With teal highlights.
+A theme with a dark title bar, tabs and toolbar.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
+
+With orange highlights:
+
+```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
+
+With teal highlights:
 
 ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
 
