@@ -13,7 +13,9 @@ Features: dark brown title bar with light tabs and toolbar. A style conventional
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVgiAv-gx1vFCdU8EaI8xTOqvAY8WIhbzwLofEsRJAXtd9wqh8JsYHq6m-ZvzdWm40gnmVUXcERRgnMQf7NwjnfHuSmNCt-rUz7oikwfmTq8nUesC-aKuzVKlhUnMrfE8eK3YFgEch_xtPTrP-0RsAA```
+__Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVgiAv-gx1vFCdU8EaI8xTOqvAY8WIhbzwLofEsRJAXtd9wqh8JsYHq6m-ZvzdWm40gnmVUXcERRgnMQf7NwjnfHuSmNCt-rUz7oikwfmTq8nUesC-aKuzVKlhUnMrfE8eK3YFgEch_xtPTrP-0RsAA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-darker/
 
 ### Pop! Light
 
@@ -23,7 +25,9 @@ Features: light title bar, tabs and toolbar. Has teal highlights.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVghqI53i8tc0iHdfdiiTXB6kpnqXE4hgjGghz93XVSrpEI5PUqDapQcSgIxeNKC4fJbeHFNXcPOuFvdumIrCfDQblGFgl5IbZberiLn7_sUlSOgL6Wzpa7xpxbGa8sVIXnGB-zA-NLxg1GfpPKE6bf_YFRAA```
+__Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVghqI53i8tc0iHdfdiiTXB6kpnqXE4hgjGghz93XVSrpEI5PUqDapQcSgIxeNKC4fJbeHFNXcPOuFvdumIrCfDQblGFgl5IbZberiLn7_sUlSOgL6Wzpa7xpxbGa8sVIXnGB-zA-NLxg1GfpPKE6bf_YFRAA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-light/
 
 ### Pop! Warm
 
@@ -33,7 +37,9 @@ Features: brownish or warm gray title bar, tabs and toolbar. Highlights are oran
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhnPE9rzzwRgocX6jlWKWaKc06I2j9Rf7EP9k8315vnifA2sXU5ueCIq6H4JHCMLuEOm9ZFdMEzOtgooRxaPZp5tR7eKU1-1220o2tWOlEyUP1ESEF3mAeReDKwKEfAFHvAdvxBPExRRiLHQvRaAoAANJ_4uA479c0ClCMb1UDI3o6aK8sD-V6tWGZn1prhEZ_zq5fHjlrak1TSH__rQnAA```
+__Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhnPE9rzzwRgocX6jlWKWaKc06I2j9Rf7EP9k8315vnifA2sXU5ueCIq6H4JHCMLuEOm9ZFdMEzOtgooRxaPZp5tR7eKU1-1220o2tWOlEyUP1ESEF3mAeReDKwKEfAFHvAdvxBPExRRiLHQvRaAoAANJ_4uA479c0ClCMb1UDI3o6aK8sD-V6tWGZn1prhEZ_zq5fHjlrak1TSH__rQnAA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-warm
 
 ### Pop! Dark
 
@@ -45,11 +51,15 @@ Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
 With orange highlights:
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
+__Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-dark-orange
 
 With teal highlights:
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
+Firefox Color URL:```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhZJHfv8ynOLL05Bb6lobcyXaJa6PpVsU3Ccld88BYb-IPM7JFfdhny4O-55e1XYxmnDy2L1RXMw9OpyGaHPOdMHzw2WjlXm3eFfPqGSyO8QBirJwqHuCleSQG2kOPUkawznR2XU8zK87pRVXhAy8Iz7M0bAAxYFct36grfrCNBVSWQidw_KNbL_5VbdOi7FNC6PUydxLuh_9ZtgAA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-dark-teal
 
 ### Pop! Black
 
@@ -59,7 +69,9 @@ A near black (warm dark gray) theme. With teal highlights.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
-```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhTF0Gdmgrt-MSYP_BJi3ulTyQ6uQYTHE_6in1K3OD19jOeiv8TY46k32saAt_vHDAOpyP97jAn9u73mz6OG_qFpKY4btZy9BUtS4itO6B6sjmE_rdam5Xduv4iGKh_UOA9vuCKtJeHgtz44UK4TNHG_wpeVzZfD5JzQyhxrPXaQqX7t_kwNj096sulF_6t97ZJ4RbKlPoTLYA```
+__Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhTF0Gdmgrt-MSYP_BJi3ulTyQ6uQYTHE_6in1K3OD19jOeiv8TY46k32saAt_vHDAOpyP97jAn9u73mz6OG_qFpKY4btZy9BUtS4itO6B6sjmE_rdam5Xduv4iGKh_UOA9vuCKtJeHgtz44UK4TNHG_wpeVzZfD5JzQyhxrPXaQqX7t_kwNj096sulF_6t97ZJ4RbKlPoTLYA```
+
+__Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-black
 
 ## License
 
