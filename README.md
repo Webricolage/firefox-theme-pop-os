@@ -9,7 +9,7 @@ These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on
 
 Unofficial theme based on the style of Pop!\_OS.
 
-Features: dark brown title bar with light tabs and toolbar. A style conventionally known as "darker". Highlights are orange.
+Features: dark brown title bar with light tabs and toolbar. A style conventionally known as "darker". Highlights are teal.
 
 Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
 
