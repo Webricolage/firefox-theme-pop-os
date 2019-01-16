@@ -7,6 +7,8 @@ These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on
 
 ### Pop! (Default, a.k.a. "darker")
 
+![Pop! (Default)](theme-pop-default/theme-pop-default.png "Pop! (Default)")
+
 Unofficial theme based on the style of Pop!\_OS.
 
 Features: dark brown title bar with light tabs and toolbar. A style conventionally known as "darker". Highlights are teal.
@@ -18,6 +20,8 @@ __Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBK
 __Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-darker
 
 ### Pop! Light
+
+![Pop! Light --teal](theme-pop-light--teal/theme-pop-light--teal.png "Pop! Light --teal")
 
 Unofficial theme based on the style of Pop!\_OS.
 
@@ -31,6 +35,8 @@ __Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-li
 
 ### Pop! Warm
 
+![Pop! Warm](theme-pop-warm/theme-pop-warm.png "Pop! Warm")
+
 Unofficial theme based on the style of Pop!\_OS.
 
 Features: brownish or warm gray title bar, tabs and toolbar. Highlights are orange.
@@ -42,6 +48,8 @@ __Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBK
 __Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-warm
 
 ### Pop! Dark
+
+![Pop! Dark --teal](theme-pop-dark--teal/theme-pop-dark--teal.png "Pop! Dark --teal")
 
 Unofficial theme based on the style of Pop!\_OS.
 
@@ -62,6 +70,8 @@ Firefox Color URL:```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm84
 __Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-dark-teal
 
 ### Pop! Black
+
+![Pop! Black](theme-pop-dark--teal/theme-pop-dark--teal.png "Pop! Black")
 
 Unofficial theme based on the style of Pop!\_OS.
 
