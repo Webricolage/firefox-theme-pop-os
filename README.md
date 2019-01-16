@@ -83,6 +83,11 @@ __Firefox Color URL:__ ```https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBK
 
 __Install as Firefox Theme:__ https://addons.mozilla.org/nl/firefox/addon/pop-black
 
+## To Do
+
+* Add screenshots to README
+* Make faded out text darker in all themes to improve legibility
+
 ## License
 
 __Feel free to adapt and share!__
