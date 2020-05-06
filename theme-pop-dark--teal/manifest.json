@@ -16,6 +16,9 @@
       "popup": "rgb(51, 48, 47)",
       "popup_text": "rgb(246, 246, 246)",
       "tab_loading": "rgb(72, 185, 199)"
+      "ntp_background": "rgb(51, 48, 47)",
+      "ntp_text": "rgb(173, 171, 171)",
+      
     }
   }
 }
