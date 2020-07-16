@@ -8,14 +8,16 @@
     "colors": {
       "toolbar": "rgb(237, 237, 237)",
       "toolbar_text": "rgb(87, 79, 74)",
-      "accentcolor": "rgb(222, 222, 222)",
-      "textcolor": "rgb(68, 68, 68)",
+      "frame": "rgb(222, 222, 222)",
+      "tab_background_text": "rgb(68, 68, 68)",
       "toolbar_field": "rgb(252, 252, 252)",
       "toolbar_field_text": "rgb(64, 60, 58)",
       "tab_line": "rgb(72, 185, 199)",
       "popup": "rgb(246, 246, 246)",
       "popup_text": "rgb(64, 60, 58)",
-      "tab_loading": "rgb(72, 185, 199)"
+      "tab_loading": "rgb(72, 185, 199)",
+      "ntp_background": "rgb(222, 222, 222)",
+      "ntp_text": "rgb(68, 68, 68)"
     }
   }
 }
