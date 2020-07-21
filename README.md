@@ -1,7 +1,6 @@
-# Unofficial Pop!_OS Firefox Color Themes
+# Unofficial Pop!_OS Firefox Themes
 
-These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on the style of [Pop!\_OS](https://system76.com/pop). The themes are made with [Firefox Color](https://color.firefox.com/?theme=XQAAAAL9AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKliFvJPGr2Q8DUsyzFgfxYJ1CQgbhkrTVC4Zi3QEma_oSXeESUVgiAv-gx1vFCdU8EaI8xTOqvAY8WIhbzwLofEsRJAXtd9wqh8JsYHq6m-ZvzdWm40gnmVUXcERRgnMQf7NwjnfHuSmNCt-rUz7oikwfmTq8nUesC-aKuzVKlhUnMrfE8eK3YFgEch_xtPTrP-0RsAA).
-
+These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on the style of [Pop!\_OS](https://system76.com/pop).
 
 ## List of themes
 
@@ -90,4 +89,4 @@ __Date__: January 8, 2019
 
 Thanks to the beautiful [Pop!_OS GTK Theme \(GitHub\)](https://github.com/pop-os/gtk-theme).
 
-And thanks to Mozilla for making Firefox and cool, little experiments like [Firefox Color](https://testpilot.firefox.com/experiments/color).
+And thanks to Mozilla for making Firefox and cool experiments like [Firefox Color](https://testpilot.firefox.com/experiments/color) that formed the starting point of these themes.
