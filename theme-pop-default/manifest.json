@@ -1,23 +1,33 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Pop!",
   "theme": {
     "images": {},
     "properties": {},
     "colors": {
-      "toolbar": "rgb(237, 237, 237)",
-      "toolbar_text": "rgb(87, 79, 74)",
-      "frame": "rgb(87, 79, 74)",
-      "tab_background_text": "rgb(183, 180, 178)",
-      "toolbar_field": "rgb(252, 252, 252)",
-      "toolbar_field_text": "rgb(64, 60, 58)",
-      "tab_line": "rgb(72, 185, 199)",
-      "popup": "rgb(246, 246, 246)",
-      "popup_text": "rgb(64, 60, 58)",
-      "tab_loading": "rgb(72, 185, 199)",
-      "ntp_background": "rgb(237, 237, 237)",
-      "ntp_text": "rgb(87, 79, 74)"
+      "frame": "#574f4a",
+      "ntp_background": "#f5f5f5",
+      "ntp_text": "#292929",
+      "popup_border": "#c8c8c8",
+      "popup_text": "#403c3a",
+      "popup": "#f6f6f6",
+      "popup_highlight": "#48b9c7",
+      "sidebar": "#f6f6f6",
+      "sidebar_border": "#c8c8c8",
+      "sidebar_highlght": "#c8c8c8",
+      "tab_background_text": "#b7b4b2",
+      "tab_background_separator": "#574f4a",
+      "tab_line": "#ffad00",
+      "tab_loading": "#ffad00",
+      "toolbar_bottom_separator": "#c8c8c8",
+      "toolbar_field_text": "#403c3a",
+      "toolbar_field": "#fcfcfc",
+      "toolbar_field_border_focus": "#ffad00",
+      "toolbar_text": "#292929",
+      "toolbar_top_separator": "#f6f6f6",
+      "toolbar_vertical_separator": "#f6f6f6",
+      "toolbar": "#f6f6f6"
     }
   }
 }
