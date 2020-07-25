@@ -57,7 +57,9 @@ A near black (warm dark gray) theme. With teal highlights.
 
 __Feel free to adapt and share!__
 
-__License__: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
+__Code license__: [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+
+__Firefox Theme licenses__: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 __Author__: Ruben Sibon (Webricolage)
 
