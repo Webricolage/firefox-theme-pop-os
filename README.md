@@ -1,6 +1,6 @@
 # Unofficial Pop!_OS Firefox Themes
 
-These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on the style of [Pop!\_OS](https://system76.com/pop).
+These are unofficial [Firefox](https://www.mozilla.org/firefox/) Themes based on the GTK3.2 styles of [Pop!\_OS](https://system76.com/pop).
 
 ## List of themes
 
@@ -8,67 +8,45 @@ These are unofficial [Firefox](https://www.mozilla.org/firefox/) themes based on
 
 ![Pop! (Default)](theme-pop-default/theme-pop-default.png "Pop! (Default)")
 
-Unofficial theme based on the style of Pop!\_OS.
+Features: brown title bar with a light toolbar and orange and teal accents. A style conventionally known as "darker".
 
-Features: dark brown title bar with light tabs and toolbar. A style conventionally known as "darker". Highlights are teal.
+> With orange and teal highlights https://addons.mozilla.org/nl/firefox/addon/pop-default.
 
-Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-darker) on Firefox Add-ons__.
+> With teal highlights: https://addons.mozilla.org/nl/firefox/addon/pop-darker.
 
 ### Pop! Light
 
 ![Pop! Light --teal](theme-pop-light--teal/theme-pop-light--teal.png "Pop! Light --teal")
 
-Unofficial theme based on the style of Pop!\_OS.
-
 Features: light title bar, tabs and toolbar. Has teal highlights.
 
-Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-light) on Firefox Add-ons__.
+> Install as Firefox Theme: https://addons.mozilla.org/nl/firefox/addon/pop-light
 
 ### Pop! Warm
 
 ![Pop! Warm](theme-pop-warm/theme-pop-warm.png "Pop! Warm")
 
-Unofficial theme based on the style of Pop!\_OS.
-
 Features: brownish or warm gray title bar, tabs and toolbar. Highlights are orange.
 
-Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-warm) on Firefox Add-ons__.
+> Install as Firefox Theme: https://addons.mozilla.org/nl/firefox/addon/pop-warm
 
 ### Pop! Dark
 
 ![Pop! Dark --teal](theme-pop-dark--teal/theme-pop-dark--teal.png "Pop! Dark --teal")
 
-Unofficial theme based on the style of Pop!\_OS.
-
 A theme with a dark title bar, tabs and toolbar.
 
-Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
+> With orange highlights: https://addons.mozilla.org/nl/firefox/addon/pop-dark-orange
 
-With orange highlights:
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-dark-orange) on_Firefox Add-ons__.
-
-With teal highlights:
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-dark-teal) on_Firefox Add-ons__.
+> With teal highlights: https://addons.mozilla.org/nl/firefox/addon/pop-dark-teal
 
 ### Pop! Black
 
 ![Pop! Black](theme-pop-black--teal/theme-pop-black--teal.png "Pop! Black")
 
-Unofficial theme based on the style of Pop!\_OS.
-
 A near black (warm dark gray) theme. With teal highlights.
 
-Based on Pop!_OS GTK Theme: https://github.com/pop-os/gtk-theme
-
-__Install as [Firefox Theme](https://addons.mozilla.org/nl/firefox/addon/pop-black) on Firefox Add-ons__.
+> Install as Firefox Theme: https://addons.mozilla.org/nl/firefox/addon/pop-black
 
 ## To Do
 
