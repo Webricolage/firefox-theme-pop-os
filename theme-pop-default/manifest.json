@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.2",
+  "version": "1.0",
   "name": "Pop!",
   "theme": {
     "images": {},
@@ -25,7 +25,7 @@
       "toolbar_field": "#fcfcfc",
       "toolbar_field_border_focus": "#ffad00",
       "toolbar_text": "#292929",
-      "toolbar_top_separator": "#f6f6f6",
+      "toolbar_top_separator": "transparent",
       "toolbar_vertical_separator": "#f6f6f6",
       "toolbar": "#f6f6f6"
     }
