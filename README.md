@@ -1,6 +1,6 @@
 # Unofficial Pop!_OS Firefox Themes
 
-These are unofficial [Firefox](https://www.mozilla.org/firefox/) Themes based on the GTK3.2 styles of [Pop!\_OS](https://system76.com/pop).
+These are unofficial [Firefox](https://www.mozilla.org/firefox/) Themes based on the GTK3.2 style of [Pop!\_OS](https://system76.com/pop).
 
 ## List of themes
 
